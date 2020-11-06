@@ -14,7 +14,7 @@ spring:
     host: 192.168.235.129
   data:
     mongodb:
-      host: localhost
+      host: 192.168.235.129
       database: spitdb
 eureka:
   client:
